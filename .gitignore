@@ -1,5 +1,6 @@
 # вложеные каталоги .idea
 */.idea/
+*/__pycache__/
 
 # файл git.txt
 git.txt
