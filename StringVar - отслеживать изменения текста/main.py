@@ -1,5 +1,11 @@
 import tkinter as tk
 
+# Есть 4 класса переменных в Tkinter: BooleanVar, DoubleVar, IntVar и StringVar.
+# Каждый из них оборачивает значение соответствующего типа Python,
+# который должен соответствовать типу виджета, прикрепленного к переменной.
+
+# https://pythonru.com/uroki/sozdanie-izmenenie-i-proverka-teksta-tkinter-2
+
 class App(tk.Tk):
     def __init__(self):
         super().__init__()
