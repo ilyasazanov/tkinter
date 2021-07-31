@@ -1,3 +1,5 @@
+# https://www.delftstack.com/ru/howto/python-tkinter/how-to-bind-enter-key-to-a-function-in-tkinter/
+
 import tkinter as tk
 
 
